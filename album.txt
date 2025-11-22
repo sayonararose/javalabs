@@ -1,0 +1,10 @@
+Album: My Student Album
+Tracks: 6
+Total duration: 17:52
+
+1. Pink Venom — BLACKPINK [KPOP] (3:07) [Lyrics: Fabulous...]
+2. Kill Bill — SZA [RNB] (3:30) [Lyrics: La la la...]
+3. After Party — Don Toliver [HIPHOP] (3:15) [Lyrics: Yeah yeah...]
+4. Blinding Lights Intro — The Weeknd [RNB] (3:00) [Instr: synth, drum]
+5. HUMBLE. Live — Kendrick Lamar [HIPHOP] (4:10) [Venue: Staples Center]
+6. Short Ambient — Artist X [AMBIENT] (0:50)
