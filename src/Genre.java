@@ -1,0 +1,3 @@
+public enum Genre {
+    POP, ROCK, JAZZ, KPOP, ELECTRONIC, AMBIENT, RNB, HIPHOP, OTHER
+}
